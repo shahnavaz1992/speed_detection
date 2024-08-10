@@ -1,3 +1,5 @@
+This Python program use YOLOX to detect car speed and send a warning to a mobile application if it exceeds safety limits. To run the application follow below steps.
+
 <div align="center"><img src="assets/logo.png" width="350"></div>
 <img src="assets/demo.png" >
 
